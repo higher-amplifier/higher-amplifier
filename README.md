@@ -1,16 +1,40 @@
-## Hi there 👋
+# Hi, I'm Bharat Meghwal 👋
 
-<!--
-**higher-amplifier/higher-amplifier** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Electronics & Communication Engineering undergraduate at **MANIT Bhopal**.
 
-Here are some ideas to get you started:
+I'm passionate about **Software Development**, **Backend Engineering**, and **Competitive Programming**. I enjoy building scalable web applications with the **MERN Stack** and strengthening my problem-solving skills through Data Structures & Algorithms.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* 💻 Full-Stack MERN Developer
+* ⚔️ Knight (2036) on LeetCode
+* 🧩 Solved **1000+** DSA problems across LeetCode, Codeforces & GeeksforGeeks
+* 🚀 Interested in Backend Development, System Design & Distributed Systems
+
+### 🛠 Tech Stack
+
+**Languages:** C • C++ • JavaScript • SQL
+
+**Frontend:** React.js • HTML5 • CSS3 • Tailwind CSS • Vite
+
+**Backend:** Node.js • Express.js • REST APIs • JWT • bcrypt • Nodemailer
+
+**Databases:** MongoDB • MySQL 
+
+**Tools:** Git • GitHub • Postman • VS Code • npm
+
+**Core CS:** Data Structures & Algorithms • OOP • Operating Systems • DBMS • Computer Networks • System Design
+
+### 📌 Featured Projects
+
+* **Nourish** — A MERN-based food donation platform connecting donors with NGOs to reduce food waste.
+* **WillIt** — A secure digital legacy platform featuring encrypted messages, automated delivery, and scheduled background jobs.
+
+### 🎯 Current Focus
+
+- Building scalable full-stack applications
+- Backend engineering and API design
+- System Design and Distributed Systems
+
+
+### 📬 Get in Touch
+
+I'm always open to internship opportunities, software engineering discussions, and collaborations on exciting projects. Feel free to connect if you'd like to build something together.
