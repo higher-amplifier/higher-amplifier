@@ -12,10 +12,15 @@ I'm passionate about **Software Development**, **Backend Engineering**, and **Co
 ### 🛠 Tech Stack
 
 **Languages:** C • C++ • JavaScript • SQL
+
 **Frontend:** React.js • HTML• CSS • Tailwind CSS • Vite
+
 **Backend:** Node.js • Express.js • REST APIs • JWT • bcrypt • Nodemailer
+
 **Databases:** MongoDB • MySQL 
+
 **Tools:** Git • GitHub • Postman • VS Code • npm
+
 **Core CS:** Data Structures & Algorithms • OOP • Operating Systems • DBMS • Computer Networks • System Design
 
 ### 📌 Featured Projects
