@@ -2,7 +2,7 @@
 
 🎓Final year Electronics & Communication Engineering undergraduate at **MANIT Bhopal**.
 
-I'm passionate about **Software Development**, **Backend Engineering**, and **Competitive Programming**. I enjoy building scalable web applications with the **MERN Stack** and strengthening my problem-solving skills through Data Structures & Algorithms.
+I'm passionate about **Software Development** and **Backend Engineering**. I enjoy building scalable web applications with the **MERN Stack** and strengthening my problem-solving skills through Data Structures & Algorithms.
 
 * 💻 Full-Stack MERN Developer
 * ⚔️ Knight (2036) on LeetCode
