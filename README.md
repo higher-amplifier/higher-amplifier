@@ -13,7 +13,7 @@ I'm passionate about **Software Development**, **Backend Engineering**, and **Co
 
 **Languages:** C • C++ • JavaScript • SQL
 
-**Frontend:** React.js • HTML5 • CSS3 • Tailwind CSS • Vite
+**Frontend:** React.js • HTML• CSS • Tailwind CSS • Vite
 
 **Backend:** Node.js • Express.js • REST APIs • JWT • bcrypt • Nodemailer
 
