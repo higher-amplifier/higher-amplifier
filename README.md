@@ -1,6 +1,6 @@
 # Hi, I'm Bharat Meghwal 👋
 
-🎓 Electronics & Communication Engineering undergraduate at **MANIT Bhopal**.
+🎓Final year Electronics & Communication Engineering undergraduate at **MANIT Bhopal**.
 
 I'm passionate about **Software Development**, **Backend Engineering**, and **Competitive Programming**. I enjoy building scalable web applications with the **MERN Stack** and strengthening my problem-solving skills through Data Structures & Algorithms.
 
@@ -12,15 +12,10 @@ I'm passionate about **Software Development**, **Backend Engineering**, and **Co
 ### 🛠 Tech Stack
 
 **Languages:** C • C++ • JavaScript • SQL
-
 **Frontend:** React.js • HTML• CSS • Tailwind CSS • Vite
-
 **Backend:** Node.js • Express.js • REST APIs • JWT • bcrypt • Nodemailer
-
 **Databases:** MongoDB • MySQL 
-
 **Tools:** Git • GitHub • Postman • VS Code • npm
-
 **Core CS:** Data Structures & Algorithms • OOP • Operating Systems • DBMS • Computer Networks • System Design
 
 ### 📌 Featured Projects
@@ -35,6 +30,3 @@ I'm passionate about **Software Development**, **Backend Engineering**, and **Co
 - System Design and Distributed Systems
 
 
-### 📬 Get in Touch
-
-I'm always open to internship opportunities, software engineering discussions, and collaborations on exciting projects. Feel free to connect if you'd like to build something together.
